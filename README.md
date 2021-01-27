@@ -1,2 +1,5 @@
 # businesswebsite
-This website is build using html and css
+This is very basic single static web page written using HTML & CSS
+[https://kunalbandale.github.io/businesswebsite](https://kunalbandale.github.io/businesswebsite/ "(https://kunalbandale.github.io/businesswebsite")
+
+
